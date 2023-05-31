@@ -1,3 +1,5 @@
+# Questao nao finalizada
+
 resultado = int(input());
 lista_registros = [];
 
@@ -38,5 +40,3 @@ while i <= len(lista_registros)-1:
     elif espera>0:
         print(lista_registros[i], espera);
     i+=2;
-
-#['R', '1', 'R', '2', 'T', '4', 'E', '1', 'E', '2']
